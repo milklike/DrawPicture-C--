@@ -1,0 +1,27 @@
+﻿已經開始建置於 2018/12/27 下午 05:12:49。
+     1>節點 2 (build 目標) 上的專案 "D:\callback\DrawPicture1\DrawPicture\DrawPicture\DrawPicture.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\DrawPicture.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+       CoreResGen:
+         相對於資源的來源檔案，並沒有資源過期。將略過產生資源。
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         所有輸出都是最新的。
+         DrawPicture.vcxproj -> D:\callback\DrawPicture1\DrawPicture\Debug\DrawPicture.exe
+       MetaGen:
+       將略過目標 "MetaGen"，因為所有輸出檔對於其輸入檔而言都已更新。
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\DrawPicture.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\DrawPicture.lastbuildstate"。
+     1>專案 "D:\callback\DrawPicture1\DrawPicture\DrawPicture\DrawPicture.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.15
